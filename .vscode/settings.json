@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "*.dbclient-js": "javascript",
-        "raylib.h": "c"
+        "raylib.h": "c",
+        "bitset": "c",
+        "string_view": "c"
     }
 }

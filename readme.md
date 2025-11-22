@@ -52,8 +52,8 @@ gcc -Wall -std=c99 main.c -o bin/mathboi $(pkg-config --cflags --libs raylib) -l
 - ~~Add bottom field for showing what you typed~~
 - ~~Add removing of wrong user input~~
 - ~~Add background~~
-- Scale background properly
-- Add the gun that shots the problems down (player sprite)
+- ~~Scale background properly~~
+- ~~Add the gun that shots the problems down (player sprite)~~
 - Add explosions when hit
 - Add Soundeffects
 - Add main menu
